@@ -1,0 +1,12 @@
+{
+  "name": "10.15.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndriyHromyak/nodejs.git",
+  "author": "andriy_hromyak <andriy_hromyak@epam.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.2.2"
+  }
+}
