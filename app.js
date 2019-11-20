@@ -8,6 +8,8 @@ const jsonParser = express.json();
 const mongoClient = new MongoClient("mongodb://0.0.0.0:27017/", { useNewUrlParser: true });
  
 let dbClient;
+
+console.log(2);
  
 app.use(express.static(__dirname + "/public"));
  
