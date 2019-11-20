@@ -9,7 +9,7 @@ const mongoClient = new MongoClient("mongodb://0.0.0.0:27017/", { useNewUrlParse
  
 let dbClient;
 
-console.log(10);
+console.log(11);
  
 app.use(express.static(__dirname + "/public"));
  
